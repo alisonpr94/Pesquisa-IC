@@ -2,7 +2,7 @@
 
 Projeto de Iniciação Científica (IC) realizado no período de agosto de 2017 até julho de 2018. O objetivo do projeto foi realizar um estudo na aŕea de Análise de Sentimentos (AS), sob orientação da Profª Drª Nádia Félix Felipe da Silva - Instituto de Informática da Universidade Federal de Goiás (UFG).
 
-Durante o período de pesquisa foi nescessário o domínio de algumas ferramentas, como:
+Durante o período de pesquisa foi necessário o domínio de algumas ferramentas, como:
 
   - Python 2.x e 3.x
   - numpy
@@ -11,6 +11,7 @@ Durante o período de pesquisa foi nescessário o domínio de algumas ferramenta
   - scikit-learn
   - Keras
   - matplotlib
+  - entre outras...
   
 O projeto de Iniciação Científica trouxe-me uma boa experiência não somente sobre pesquisa acadêmica, mas também foi possível ganhar experiência sobre pré-processamento de dados, machine learning, deep learning, métodos para Análise de Sentimentos, análise de dados, entre outros.
 
