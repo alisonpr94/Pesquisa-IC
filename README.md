@@ -1,6 +1,6 @@
 # Pesquisa-IC: Agregadores de Classificadores para Análise de Sentimentos
 
-Projeto de Iniciação Científica (IC) realizado no período de agosto de 2017 até julho de 2018. O objetivo do projeto foi realizar um estudo na aŕea de Análise de Sentimentos (AS), sob orientação da Profª Drª Nádia Félix Felipe da Silva - Instituto de Informática da Universidade Federal de Goiás (UFG).
+Projeto de Iniciação Científica (IC) realizado no período de agosto de 2017 a julho de 2018. O objetivo do projeto foi realizar um estudo na aŕea de Análise de Sentimentos (AS), sob orientação da Profª Drª Nádia Félix Felipe da Silva - Instituto de Informática da Universidade Federal de Goiás (UFG).
 
 Durante o período de pesquisa foi necessário o domínio de algumas ferramentas, como:
 
